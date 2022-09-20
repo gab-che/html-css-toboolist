@@ -35,6 +35,10 @@ main {
     border-radius: 3px;
 }
 
+.big-radius {
+    border-radius: 12px;
+}
+
 nav {
     padding: 20px 0 10px 50px;
     border-bottom: 3px solid #f6f8f9;
@@ -42,6 +46,26 @@ nav {
 
 .blue-background {
     background: #47adf1;
+}
+
+.purple-background {
+    background: #9c72e4;
+}
+
+.green-background {
+    background: #64c0a9;
+}
+
+.orange-background {
+    background: #f29e33;
+}
+
+.pink-background {
+    background: #d863a1;
+}
+
+.lime-background {
+    background: #b0c926;
 }
 
 .white-text {
@@ -62,4 +86,22 @@ nav {
 
 .toggle {
     padding-bottom: 30px;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.green-circle {
+    color: #64c0a9;
+    border: 2px solid #64c0a9;
+}
+
+.red-circle {
+    color: #eb5953;
+    border: 2px solid #eb5953;
 }
