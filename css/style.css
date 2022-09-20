@@ -56,3 +56,12 @@ span {
     color: #cdd2d6;
     border: 1px solid #cdd2d6;
 }
+
+.small-container {
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.toggle {
+    padding-bottom: 30px;
+}
