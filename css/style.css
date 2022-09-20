@@ -17,3 +17,42 @@ h1 {
     vertical-align: top;
     font-size: 2.5rem;
 }
+
+main {
+    background-color: #f6f8f9;
+    /* altezza forzata per vedere meglio, da togliere */
+    height: 600px;
+    padding: 40px 0 10px;
+}
+
+.main-container {
+    width: 70%;
+    margin: auto;
+    background-color: white;
+}
+
+.small-radius {
+    border-radius: 3px;
+}
+
+nav {
+    padding: 20px 0 10px 50px;
+    border-bottom: 3px solid #f6f8f9;
+}
+
+span {
+    padding: 5px 10px;
+}
+
+.blue-background {
+    background: #47adf1;
+}
+
+.white-text {
+    color: white;
+}
+
+#grey {
+    color: #cdd2d6;
+    border: 1px solid #cdd2d6;
+}
